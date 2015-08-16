@@ -1,7 +1,10 @@
 var res = {
     HelloWorld_png : "res/HelloWorld.png",
     CloseNormal_png : "res/CloseNormal.png",
-    CloseSelected_png : "res/CloseSelected.png"
+    CloseSelected_png : "res/CloseSelected.png",
+    Board_png : "res/board.png",
+    Cell_png : "res/cell.png",
+    SuperTile_json : "res/tile-color.json"
 };
 
 var g_resources = [];
